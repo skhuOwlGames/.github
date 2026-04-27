@@ -8,6 +8,7 @@
 </p>
 
 ---
+
 ## 우리는 누구인가요?
 > **아울게임즈단**은 성공회대학교 IT동아리 **S.OWL** 안의 게임 개발 스터디 그룹입니다.
 유니티(Unity) 엔진을 기반으로 게임 제작을 함께 배우고,  
@@ -17,6 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="" width="0" height="0" />
 </p>
 ---
+
 ## 우리가 함께 하는 것들
 <table>
   <tr>
