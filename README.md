@@ -1,7 +1,7 @@
 <!-- 상단 배너 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-2022%2B-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-2042%2B-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Dev-FF4154?style=for-the-badge&logo=gamemaker&logoColor=white" />
   <img src="https://img.shields.io/badge/SOUL-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
