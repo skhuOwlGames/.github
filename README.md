@@ -1,11 +1,4 @@
 <!-- 상단 배너 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waves&color=gradient&customColorList=12,20,24&height=240&section=header&text=OWL%20GAMES&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=성공회대학교%20IT동아리%20SOUL%20%E2%80%A2%20게임%20개발%20스터디&descAlignY=58&descSize=16&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=600&lines=%F0%9F%A6%89+Welcome+to+Owl+Games!;%E2%9C%A8+우리는+게임을+만들어요;%F0%9F%8E%AE+함께+배우고%2C+함께+성장해요" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-2022%2B-000000?style=for-the-badge&logo=unity&logoColor=white" />
